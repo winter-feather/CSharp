@@ -1,0 +1,28 @@
+{
+  "name": "com.custompackage.example",
+  "version": "1.0.0",
+  "displayName": "CustomPakage Example",
+  "description": "This is an example package",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+  },
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Unity",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  },
+  "samples": [
+    {
+      "displayName": "sample1",
+      "description": "this is sample1",
+      "path": "Samples~/Sample1"
+    }
+  ]
+
+}
